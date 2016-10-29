@@ -1,5 +1,4 @@
 # hello-world
 Just another repository
 
-And I think to myself:
-  What a wonderful world.
+I'm keeping this here, because I feel it has sentimental value.
